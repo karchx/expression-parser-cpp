@@ -3,4 +3,5 @@ project(Parser)
 
 add_executable(ParserTest
   parser.cc
+  parser.h
   )
